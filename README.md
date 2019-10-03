@@ -15,8 +15,8 @@
 ## Description
 
 **00_hello.rb** : super programme qui demande le prenom  
-**01_pyramids.rb** : programme pharaonique
-**02_password.rb** : top secret
-**03_stairway.rb** : shuut...
+**01_pyramids.rb** : programme pharaonique  
+**02_password.rb** : top secret  
+**03_stairway.rb** : shuut...  
 
 Bacalou/Alice/alicebacalou@hotmail.fr
